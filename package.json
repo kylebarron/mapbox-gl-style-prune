@@ -1,0 +1,23 @@
+{
+  "name": "mapbox-gl-style-prune",
+  "version": "0.1.0",
+  "description": "Remove default values from Mapbox GL style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylebarron/mapbox-gl-style-prune.git"
+  },
+  "keywords": [
+    "mapbox-gl",
+    "mapbox-gl-js"
+  ],
+  "author": "Kyle Barron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kylebarron/mapbox-gl-style-prune/issues"
+  },
+  "homepage": "https://github.com/kylebarron/mapbox-gl-style-prune#readme"
+}

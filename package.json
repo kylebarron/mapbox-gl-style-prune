@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/kylebarron/mapbox-gl-style-prune/issues"
   },
-  "homepage": "https://github.com/kylebarron/mapbox-gl-style-prune#readme"
+  "homepage": "https://github.com/kylebarron/mapbox-gl-style-prune#readme",
+  "dependencies": {
+    "@mapbox/mapbox-gl-style-spec": "^13.10.2"
+  }
 }

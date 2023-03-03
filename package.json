@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/kylebarron/mapbox-gl-style-prune#readme",
   "dependencies": {
-    "@mapbox/mapbox-gl-style-spec": "^13.10.2"
+    "@mapbox/mapbox-gl-style-spec": "^13.28.0"
   }
 }
